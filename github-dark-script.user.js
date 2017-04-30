@@ -38,7 +38,7 @@
     keyboardDelay = 1000,
 
     // base urls to fetch style and package.json
-    root = "https://raw.githubusercontent.com/StylishThemes/GitHub-Dark/master/",
+    root = "https://raw.githubusercontent.com/a3ammar/GitHub-Dark/master/",
 
     defaults = {
       attach : "scroll",
