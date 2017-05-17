@@ -4,7 +4,7 @@
 // @description A userscript that adds a code wrap toggle button
 // @license     MIT
 // @author      StylishThemes
-// @namespace   https://github.com/StylishThemes
+// @namespace   https://github.com/a3ammar
 // @include     https://github.com/*
 // @run-at      document-idle
 // @grant       GM_registerMenuCommand
@@ -13,8 +13,8 @@
 // @grant       GM_addStyle
 // @require     https://greasyfork.org/scripts/28721-mutations/code/mutations.js?version=189706
 // @icon        https://avatars3.githubusercontent.com/u/6145677?v=3&s=200
-// @updateURL   https://raw.githubusercontent.com/StylishThemes/GitHub-Dark-Script/master/github-script-code-wrap.user.js
-// @downloadURL https://raw.githubusercontent.com/StylishThemes/GitHub-Dark-Script/master/github-script-code-wrap.user.js
+// @updateURL   https://raw.githubusercontent.com/a3ammar/GitHub-Dark-Script/master/github-script-code-wrap.user.js
+// @downloadURL https://raw.githubusercontent.com/a3ammar/GitHub-Dark-Script/master/github-script-code-wrap.user.js
 // ==/UserScript==
 /* jshint esnext:true, unused:true */
 (() => {
