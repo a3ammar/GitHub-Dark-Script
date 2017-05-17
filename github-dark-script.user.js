@@ -3,7 +3,7 @@
 // @version     2.2.2
 // @description GitHub Dark in userscript form, with a settings panel
 // @author      StylishThemes
-// @namespace   https://github.com/StylishThemes
+// @namespace   https://github.com/a3ammar
 // @include     /^https?://((gist|guides|help|raw|status|developer)\.)?github\.com((?!generated_pages\/preview).)*$/
 // @include     https://*.githubusercontent.com/*
 // @run-at      document-start
@@ -18,8 +18,8 @@
 // @require     https://greasyfork.org/scripts/15563-jscolor/code/jscolor.js?version=106439
 // @require     https://greasyfork.org/scripts/28721-mutations/code/mutations.js?version=189706
 // @icon        https://avatars3.githubusercontent.com/u/6145677?v=3&s=200
-// @updateURL   https://raw.githubusercontent.com/StylishThemes/GitHub-Dark-Script/master/github-dark-script.user.js
-// @downloadURL https://raw.githubusercontent.com/StylishThemes/GitHub-Dark-Script/master/github-dark-script.user.js
+// @updateURL   https://raw.githubusercontent.com/a3ammar/GitHub-Dark-Script/master/github-dark-script.user.js
+// @downloadURL https://raw.githubusercontent.com/a3ammar/GitHub-Dark-Script/master/github-dark-script.user.js
 // ==/UserScript==
 /* global jscolor */
 /* jshint esnext:true, unused:true */
